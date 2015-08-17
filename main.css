@@ -1,0 +1,64 @@
+body{
+
+	color: #444;
+    line-height: 2.3em;
+    font-family: orange juice; 
+    font-size: 14px;
+    background-color: #FFD1D1;
+    margin: .5em;
+    padding: .5em;
+
+   
+}
+
+.wrapper {
+    max-width: 650px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #FFFFFF;
+}
+
+	h1 { font-size: 3em; font-weight: normal; color: #000; margin: 0 0 .5em 0; }
+	
+	h2 { font-size: 2em; font-family: Calibri; margin: 0 0 0.1em 0; }
+
+	h3 { font-family: Calibri; font-size: 1.7em; margin: 0 0 0.1em 0; color: #D119FF; }
+
+	p {  font-family: Segoe UI SemiBold; margin: 0 0 .75em 0; }
+
+	h4 { font-family: Calibri; width: 5em; font-size: 1.7em; margin: 0 0 0.5em 0; color: #D119FF; }
+
+	h4 { width: 10em; font-size: 1.7em; margin: 0 0 0.5em 0; color: #D119FF; }
+
+	h5 { font-family: Calibri; font-size: 1.7em; margin: 0 0 0.5em 0; color: #D119FF; }
+
+#treats{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:200px;
+    width:200px;
+    float:left;
+    
+}
+
+#beverages{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:200px;
+    width:200px;
+    float:left;
+    padding-left: 30px;
+    
+}
+
+#sandwiches{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:200px;
+    width:200px;
+    float:left;
+    padding-left: 20px;
+    
+}
+
+
